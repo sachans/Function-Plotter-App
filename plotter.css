@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Rubik');
+section {
+  border:4px solid grey;
+  border-radius:15px;
+  box-shadow: 5px 5px 5px grey;
+  float:left;
+  height:390px;
+  width: 200px;
+  padding: 20px;
+  margin:10px;
+}
+#yMin,#yMax,#xMin,#xMax,#function {
+  padding-right: 4px;
+  width: 110px;
+  font-family: rubrik;
+  
+}
+#plotSettings {
+  width:120px;
+}
+
+#plot {
+  width:550px;
+}
+.headline {
+  font-family: lobster;
+  text-align: center;
+}
+label,span{
+  font-family: lobster;
+}
